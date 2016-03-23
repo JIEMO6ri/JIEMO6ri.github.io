@@ -7,15 +7,6 @@ tags: [学习笔记,知识管理]
 description: 寒假使用git时做的学习笔记
 ---
 
-
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-  <meta name="generator" content="Madoko, version 1.0.0-rc6" />
-  <meta name="viewport" content="initial-scale=1.0" />
-  <style type="text/css"  class="link">
-  /*# sourceURL=madoko.css */
   
   .madoko .toc>.tocblock .tocblock .tocblock {
     margin-left: 2.25em;
