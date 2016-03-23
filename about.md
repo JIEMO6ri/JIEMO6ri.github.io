@@ -17,9 +17,9 @@ header-img: "img/green.jpg"
 
 - [博客：thereisnobug.cn](thereisnobug.cn)
 
-- [邮箱:cn.zhaozeen@gmail.com]
+- 邮箱:cn.zhaozeen@gmail.com
 
-- [qq:308081844)]
+- qq:308081844
 
 
 
