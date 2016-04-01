@@ -10,23 +10,11 @@ header-img: "img/green.jpg"
     <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
 </center>
 
-我是赵泽恩，东奔西走，胡乱折腾。
-
-
-###联系
-
-- [博客：thereisnobug.cn](thereisnobug.cn)
-
-- 邮箱:cn.zhaozeen@gmail.com
-
-- qq:308081844
+我是张晶晶
 
 
 
 
-<center>
-    <p><img src="../img/erweima.png" align="center"></p>
-</center>
 
 
 
