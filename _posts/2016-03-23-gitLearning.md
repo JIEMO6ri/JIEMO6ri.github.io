@@ -8,7 +8,7 @@ description: 寒假使用git时做的学习笔记
 ---
 
   
-
+ 
 <body class="madoko">
 
 <div class="body madoko" style="line-adjust:0"><h6 id="sec-1git" class="h5" data-heading-depth="5" style="display:block">1、安装git</h6>
@@ -78,6 +78,10 @@ git tag -s &lt;tagname&gt; -m &quot;blablabla...&quot;可以用PGP签名标签�
 <pre class="para-block pre-indented" style="display:block"><code>在使用$ git status查询状态时，有一些系统自动生成的文件会显示在未跟踪的文件中。git为强迫症着想，用户可以创建.gitignore文件，在其内写入要忽略的文件名或正则，如*.txt~
 然后将该文件commit入库即可。</code></pre><span data-line=""></span></div>
 </body>
+
+
+
+
 
 
 
